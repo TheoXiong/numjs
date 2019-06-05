@@ -1,6 +1,6 @@
 {
   "name": "@theoxiong/numjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Like NumPy, in JavaScript (forked)",
   "main": "src/index.js",
   "dependencies": {

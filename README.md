@@ -19,11 +19,11 @@ __NumJs__ is licensed under the [MIT license](https://github.com/nicolaspanel/nu
 ### on node.js
 
 ```sh
-npm install numjs
+npm install @theoxiong/numjs
 ```
 
 ```js
-var nj = require('numjs');
+const nj = require('@theoxiong/numjs')
 ...
 ```
 
