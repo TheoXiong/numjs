@@ -10,12 +10,10 @@ lib-cov
 .idea
 .grunt
 
-pids
 logs
 results
 
 npm-debug.log
 node_modules
 doc
-bower_components
 *.DS_Store
